@@ -1,4 +1,4 @@
-# Bisección
+# Método de Bisección
 
 Es el método más elemental y antiguo para determinar las raíces de una ecuación. Está basado directamente en el teorema de Bolzano.
 
